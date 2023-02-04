@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: gray;
+}
+.nav-list-item {
+  display: inline-block;
+}
+.nav-list {
+
+}
+footer{
+  height: 120px;
+  background-color: gray;
+}
+.footer-text {
+  color: white;
+  text-align: center
+
+}
